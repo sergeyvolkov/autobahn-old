@@ -1,0 +1,17 @@
+{
+  "name": "autobahn-old-version",
+  "version": "0.8.2",
+  "authors": [
+    "Sergey Volkov <volkov.sergey@nixsolutions.com>"
+  ],
+  "description": "Old versions of the autobahn.js library",
+  "main": "autobahn.min.js",
+  "keywords": [
+    "autobahn",
+    "old",
+    "autobahn",
+    "version"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sergeyvolkov/autobahn-old"
+}
